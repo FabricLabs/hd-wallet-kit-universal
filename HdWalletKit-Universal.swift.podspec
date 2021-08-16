@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HdWalletKit-Universal.swift'
   s.module_name      = 'HdWalletKit'
-  s.version          = '1.5.1'
+  s.version          = '1.5.2'
   s.summary          = 'HD Wallet library for Swift. Supports iOS & OSX'
 
   s.description      = <<-DESC

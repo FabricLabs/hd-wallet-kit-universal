@@ -24,6 +24,6 @@ HD Wallet library that makes possible generating and validating mnemonic phrases
 
   s.pod_target_xcconfig = { 'APPLICATION_EXTENSION_API_ONLY' => 'YES' }
 
-  s.dependency 'OpenSslKit-Universal.swift', '~> 1.0'
-  s.dependency 'Secp256k1Kit-Universal.swift', '~> 1.0'
+  s.dependency 'OpenSslKit-Universal.swift', '~> 1.2.2'
+  s.dependency 'Secp256k1Kit-Universal.swift', '~> 1.2'
 end
